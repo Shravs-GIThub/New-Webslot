@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'EastUSWebsite'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f12afe36cdae451b8abf2e44ad9adf25 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5f820224c5fd46f4bb7c1f179b1647b0 }}
         package: .
